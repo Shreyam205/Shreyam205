@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Shreyam Sharma</h1>
+<h3 align="center">A passionate Fullstack Web Developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about my learnings
 
