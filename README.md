@@ -15,38 +15,16 @@
 
 # 💻 Tech Stack:
 ## Languages: ##
-<img width="25" src="./Tech Logos/javascript.svg" alt=""><img width="25" src="./Tech Logos/python.svg" alt=""><img width="25" src="./Tech Logos/html.svg" alt=""><img width="25" src="./Tech Logos/css-alt.svg" alt=""><img width="25" src="./Tech Logos/ejs.svg" alt=""><img width="25" src="./Tech Logos/cplusplus-original.svg" alt="">
+<img width="40" style="margin: 10;" src="./Tech Logos/javascript.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/python.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/html.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/css-alt.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/ejs.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/cplusplus-original.svg" alt="">
 
 ## Frameworks and Tools: ##
-<img width="25" src="./Tech Logos/node-js.svg" alt="">
-<img width="25" src="./Tech Logos/express-js.svg" alt="">
-<img width="25" src="./Tech Logos/react.svg" alt="">
-<img width="25" src="./Tech Logos/nextjs_icon_dark.svg" alt="">
-<img width="25" src="./Tech Logos/jwt.svg" alt="">
-<img width="25" src="./Tech Logos/npm.svg" alt="">
-<img width="25" src="./Tech Logos/nodemon.svg" alt="">
-<img width="25" src="./Tech Logos/vitejs.svg" alt="">
-<img width="25" src="./Tech Logos/tailwind-css.svg" alt="">
-<img width="25" src="./Tech Logos/redux.svg" alt="">
-<img width="25" src="./Tech Logos/reactrouter.svg" alt="">
-<img width="25" src="./Tech Logos/GSAP.svg" alt="">
-<img width="25" src="./Tech Logos/graphql.svg" alt="">
-<img width="25" src="./Tech Logos/material-ui.svg" alt="">
-<img width="25" src="./Tech Logos/postman.svg" alt="">
-<img width="25" src="./Tech Logos/git.svg" alt="">
-<img width="25" src="./Tech Logos/github.svg" alt="">
-<img style="filter: invert(1);" width="25" src="./Tech Logos/vercel.svg" alt="">
-<img width="25" src="./Tech Logos/netlify.svg" alt="">
-<img width="25" src="./Tech Logos/heroku.svg" alt="">
+<img width="40" style="margin: 10;" src="./Tech Logos/node-js.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/express-js.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/react.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/nextjs_icon_dark.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/jwt.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/npm.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/nodemon.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/vitejs.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/tailwind-css.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/redux.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/reactrouter.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/GSAP.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/graphql.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/material-ui.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/postman.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/git.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/github.svg" alt=""><img style="filter: invert(1);" width="40" style="margin: 10;" src="./Tech Logos/vercel.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/netlify.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/heroku.svg" alt="">
 
 ## Databases: ##
-<img width="25" src="./Tech Logos/mongodb.svg" alt="">
-<img width="25" src="./Tech Logos/mysql.svg" alt="">
+<img width="40" style="margin: 10;" src="./Tech Logos/mongodb.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/mysql.svg" alt="">
 
 ## UI/UX: ##
-<img width="25" src="./Tech Logos/figma.svg" alt="">
-<img width="25" src="./Tech Logos/adobe-xd.svg" alt="">
-<img width="25" src="./Tech Logos/wix.svg" alt="">
+<img width="40" style="margin: 10;" src="./Tech Logos/figma.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/adobe-xd.svg" alt=""><img width="40" style="margin: 10;" src="./Tech Logos/wix.svg" alt="">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreyam205&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true)<br/>
