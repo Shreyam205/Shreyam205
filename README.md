@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-# 📊 GitHub Stats:
+<h1 align="center"> 📊 GitHub Stats: </h1>
 ![](https://github-readme-stats.vercel.app/api?username=shreyam205&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shreyam205&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyam205&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
