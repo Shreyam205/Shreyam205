@@ -15,12 +15,7 @@
 
 # 💻 Tech Stack:
 ## Languages: ##
-<img width="25" src="./Tech Logos/javascript.svg" alt="">
-<img width="25" src="./Tech Logos/python.svg" alt="">
-<img width="25" src="./Tech Logos/html.svg" alt="">
-<img width="25" src="./Tech Logos/css-alt.svg" alt="">
-<img width="25" src="./Tech Logos/ejs.svg" alt="">
-<img width="25" src="./Tech Logos/cplusplus-original.svg" alt="">
+<img width="25" src="./Tech Logos/javascript.svg" alt=""><img width="25" src="./Tech Logos/python.svg" alt=""><img width="25" src="./Tech Logos/html.svg" alt=""><img width="25" src="./Tech Logos/css-alt.svg" alt=""><img width="25" src="./Tech Logos/ejs.svg" alt=""><img width="25" src="./Tech Logos/cplusplus-original.svg" alt="">
 
 ## Frameworks and Tools: ##
 <img width="25" src="./Tech Logos/node-js.svg" alt="">
